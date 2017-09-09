@@ -1,0 +1,8 @@
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\bin\Debug\See MTA Rendőrség (jelentés).exe
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\bin\Debug\See MTA Rendőrség (jelentés).pdb
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\obj\Debug\jelentes_seemta.csprojResolveAssemblyReference.cache
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\obj\Debug\See_MTA_Rendőrség__jelentés_.Form1.resources
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\obj\Debug\See_MTA_Rendőrség__jelentés_.Properties.Resources.resources
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\obj\Debug\jelentes_seemta.csproj.GenerateResource.Cache
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\obj\Debug\See MTA Rendőrség (jelentés).exe
+C:\Users\Damy\Desktop\xdd\jelentes_seemta\obj\Debug\See MTA Rendőrség (jelentés).pdb
